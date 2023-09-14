@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborative coding
 - 🌱 I have learned c/c++(with DSA)/html
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ghadgesamiksha0@gmail.com
+- 📫 How to reach me 
 
 <!---
 samikshaghadge/samikshaghadge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
